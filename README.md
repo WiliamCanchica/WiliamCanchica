@@ -1,22 +1,22 @@
-# 👋 ¡Hola! Soy Wiliam
+# Hola, soy Wiliam
 
-💻 **Desarrollador Backend en formación**  
-🇻🇪 Venezolano viviendo en 🇵🇪 Perú  
-🎯 Apasionado por **Python** y el desarrollo de **Backend**  
-💡 Me gusta innovar y crear soluciones tecnológicas que marquen la diferencia
-
----
-
-## 🚀 Actualmente
-- 📚 Aprendiendo y perfeccionando **Python**  
-- 🔍 Explorando buenas prácticas de desarrollo y arquitectura de software  
-- 🛠️ Trabajando en proyectos personales y colaborativos
+**Estudiante en After LIFE** — Formándome como desarrollador Backend  
+Enfocado en **Python** y **GameMaker (GML)**  
+Venezolano viviendo en Perú  
+Apasionado por innovar y crear soluciones tecnológicas
 
 ---
 
-## 📫 Contáctame
+## Actualmente
+- Aprendiendo **desarrollo Backend con Python**  
+- Explorando **GameMaker** para la creación de videojuegos  
+- Mejorando mis habilidades en programación y lógica
+
+---
+
+## Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raalabr@gmail.com)
 
 ---
 
-⚡ *“La programación no es solo código, es creatividad convertida en realidad.”*
+
